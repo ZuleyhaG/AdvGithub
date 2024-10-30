@@ -3,4 +3,7 @@ public class Student {
     public String name;
 
     //techpro2
+
+
+    //dev2 nin kodları
 }
