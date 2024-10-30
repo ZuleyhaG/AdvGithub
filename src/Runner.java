@@ -9,6 +9,10 @@ public class Runner {
         System.out.println("techpro2");
 
 
+
         //dev1 kodlarını yazdı
+
+        //dev2 nin yaptigi degisiklikler
+
     }
 }
